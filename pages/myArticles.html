@@ -1,0 +1,36 @@
+<div>
+    <alert ng-repeat="alert in alerts" type="{{alert.type}}" close="closeAlert($index)">{{alert.msg}}</alert>
+</div>
+
+<h1>{{message}}</h1>
+
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <td></td>
+            <td></td>
+            <th>title</th>
+            <th>date</th>
+            <th>link</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr ng-repeat="x in articles">
+            <td>
+                <a href="#read"><span class="fa fa-eye" ng-click="Read($index)"></span></a>
+            </td>
+            <td>
+                <a href=""><span class="fa fa-trash-o" ng-click="Delete($index)"></span></a>
+            </td>
+
+            <td>{{ x.title }}</td>
+            <td>{{ x.lastupdate }}</td>
+            <td>
+                <a ng-show="x.link" target="_blank" href="{{x.ext_link}}">extern link </a>
+            </td>
+        </tr>
+    </tbody>
+
+</table>

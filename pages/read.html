@@ -1,0 +1,15 @@
+<div>
+    <alert ng-repeat="alert in alerts" type="{{alert.type}}" close="closeAlert($index)">{{alert.msg}}</alert>
+</div>
+
+
+
+<div class="container-fluid">
+    <div class="row">
+        <h1>{{message}}</h1>
+
+        <div ng-repeat="w in words" class="word" ng-click="popMeaning($index)">
+            <button popover="{{dynamicPopover.content}}" popover-title="{{w.meaning}}" class="btn btn-default">{{w.word}}</button>
+        </div>
+    </div>
+</div>

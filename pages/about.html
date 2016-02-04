@@ -1,0 +1,14 @@
+<!-- about.html -->
+    <div class="jumbotron text-center" >
+        <h1>About Page</h1>
+        <h2>{{Data.xxx}}</h2>
+    </div>
+
+
+<div ng-controller="aboutController">
+  <alert ng-repeat="alert in alerts" type="{{alert.type}}" close="closeAlert($index)">{{alert.msg}}</alert>
+  <button class='btn btn-default' ng-click="addAlert()">Add Alert</button>
+</div>
+
+
+<button popover="{{dynamicPopover.content}}" popover-title="{{dynamicPopover.title}}" class="btn btn-default">Dynamic Popover</button>

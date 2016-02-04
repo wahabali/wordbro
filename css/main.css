@@ -1,0 +1,17 @@
+.article {
+    margin: 100px 100px 0px 100px;
+    font-family: "Open Sans", sans-serif;
+    font-size: 14px;
+    color: black;
+}
+.word {
+    display: inline;
+}
+.myWords {
+    width: 600px;
+    height: 600px;
+}
+.myArticles {
+    width: 600px;
+    height: 600px;
+}

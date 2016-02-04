@@ -1,0 +1,25 @@
+<div>
+    <alert ng-repeat="alert in alerts" type="{{alert.type}}" close="closeAlert($index)">{{alert.msg}}</alert>
+</div>
+
+<div class="article">
+
+    <input type="text" class="form-control" ng-model="article.title" placeholder="title" />
+
+
+    <textarea class="form-control" rows="10" , cols="100" type="text" ng-model="article.body" placeholder="Insert your article here">
+    </textarea>
+
+    <input type="text" class="form-control" ng-model="article.link" placeholder="extern link" />
+
+    <a type="button" class="btn btn-primary" ng-click="ReadNow()" href="#read">
+        <span class="glyphicon glyphicon-play-button"></span> Read Now
+    </a>
+
+    <a type="button" class="btn btn-info" ng-click="ReadLater()">
+        <span class="glyphicon glyphicons-clock"></span> Read Later
+    </a>
+
+
+
+</div>

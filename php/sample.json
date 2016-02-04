@@ -1,0 +1,337 @@
+{
+  "result" : "ok",
+  "tuc" : [ {
+    "phrase" : {
+      "text" : "truth",
+      "language" : "en"
+    },
+    "meanings" : [ {
+      "language" : "en",
+      "text" : "state or quality of being true to someone or something"
+    }, {
+      "language" : "en",
+      "text" : "conformity to fact or reality"
+    }, {
+      "language" : "en",
+      "text" : "true facts"
+    }, {
+      "language" : "en",
+      "text" : "that which is real"
+    }, {
+      "language" : "en",
+      "text" : "something acknowledged to be true"
+    }, {
+      "language" : "en",
+      "text" : "truth (veracity, authenticity) (e.g. of a report)"
+    }, {
+      "language" : "de",
+      "text" : "Kansai-Dialekt"
+    }, {
+      "language" : "en",
+      "text" : "That which conforms to reality."
+    }, {
+      "language" : "de",
+      "text" : "Das, was der Wirklichkeit entspricht."
+    }, {
+      "language" : "en",
+      "text" : "state or quality of being true to someone or something"
+    } ],
+    "meaningId" : 3628078033408331736,
+    "authors" : [ 69425 ]
+  }, {
+    "phrase" : {
+      "text" : "true",
+      "language" : "en"
+    },
+    "meanings" : [ {
+      "language" : "en",
+      "text" : "due (east)"
+    } ],
+    "meaningId" : 932121449367317210,
+    "authors" : [ 76 ]
+  }, {
+    "phrase" : {
+      "text" : "reality",
+      "language" : "en"
+    },
+    "meanings" : [ {
+      "language" : "de",
+      "text" : "Kansai-Dialekt"
+    } ],
+    "meaningId" : -7123773271440286153,
+    "authors" : [ 76 ]
+  }, {
+    "phrase" : {
+      "text" : "bhutakoti",
+      "language" : "en"
+    },
+    "meanings" : [ {
+      "language" : "en",
+      "text" : "bhutakoti (limit of reality)"
+    } ],
+    "meaningId" : 4072827754736698700,
+    "authors" : [ 76 ]
+  }, {
+    "phrase" : {
+      "text" : "due",
+      "language" : "en"
+    },
+    "meanings" : [ {
+      "language" : "en",
+      "text" : "due (east)"
+    } ],
+    "meaningId" : 4145121398461233685,
+    "authors" : [ 76 ]
+  }, {
+    "phrase" : {
+      "text" : "genuine",
+      "language" : "en"
+    },
+    "meanings" : [ {
+      "language" : "en",
+      "text" : "due (east)"
+    } ],
+    "meaningId" : -4906110688240750477,
+    "authors" : [ 76 ]
+  }, {
+    "phrase" : {
+      "text" : "just",
+      "language" : "en"
+    },
+    "meanings" : [ {
+      "language" : "en",
+      "text" : "due (east)"
+    } ],
+    "meaningId" : 4667026257932007687,
+    "authors" : [ 76 ]
+  }, {
+    "phrase" : {
+      "text" : "pure",
+      "language" : "en"
+    },
+    "meanings" : [ {
+      "language" : "en",
+      "text" : "due (east)"
+    } ],
+    "meaningId" : -3392160082566179084,
+    "authors" : [ 76 ]
+  }, {
+    "phrase" : {
+      "text" : "right",
+      "language" : "en"
+    },
+    "meanings" : [ {
+      "language" : "en",
+      "text" : "due (east)"
+    } ],
+    "meaningId" : -2678995613159825581,
+    "authors" : [ 76 ]
+  }, {
+    "phrase" : {
+      "text" : "authenticity",
+      "language" : "en"
+    },
+    "meaningId" : 1855612481249822639,
+    "authors" : [ 76 ]
+  }, {
+    "phrase" : {
+      "text" : "counter for received messages",
+      "language" : "en"
+    },
+    "meaningId" : -6074264572326619034,
+    "authors" : [ 2736 ]
+  }, {
+    "phrase" : {
+      "text" : "credibility",
+      "language" : "en"
+    },
+    "meaningId" : -7280807664517444615,
+    "authors" : [ 76 ]
+  }, {
+    "phrase" : {
+      "text" : "fidelity",
+      "language" : "en"
+    },
+    "meaningId" : 4628578369306665500,
+    "authors" : [ 76 ]
+  }, {
+    "phrase" : {
+      "text" : "genuine truth",
+      "language" : "en"
+    },
+    "meaningId" : -7553886520420487581,
+    "authors" : [ 711 ]
+  }, {
+    "phrase" : {
+      "text" : "means",
+      "language" : "en"
+    },
+    "meaningId" : 5109971800744989485,
+    "authors" : [ 76 ]
+  }, {
+    "phrase" : {
+      "text" : "method",
+      "language" : "en"
+    },
+    "meaningId" : 7208949621869857320,
+    "authors" : [ 76 ]
+  }, {
+    "phrase" : {
+      "text" : "oneness",
+      "language" : "en"
+    },
+    "meaningId" : 8606310172604864332,
+    "authors" : [ 2736 ]
+  }, {
+    "phrase" : {
+      "text" : "proof",
+      "language" : "en"
+    },
+    "meaningId" : 6684522118864695720,
+    "authors" : [ 2692 ]
+  }, {
+    "phrase" : {
+      "text" : "real",
+      "language" : "en"
+    },
+    "meaningId" : -3552164183260435245,
+    "authors" : [ 76 ]
+  }, {
+    "phrase" : {
+      "text" : "real situation",
+      "language" : "en"
+    },
+    "meaningId" : -7200861306448164115,
+    "authors" : [ 76 ]
+  }, {
+    "phrase" : {
+      "text" : "reason",
+      "language" : "en"
+    },
+    "meaningId" : -3178977462945451720,
+    "authors" : [ 76 ]
+  }, {
+    "phrase" : {
+      "text" : "star performer",
+      "language" : "en"
+    },
+    "meaningId" : -8127977267584251399,
+    "authors" : [ 76 ]
+  }, {
+    "phrase" : {
+      "text" : "that's right",
+      "language" : "en"
+    },
+    "meaningId" : -7550882430464002868,
+    "authors" : [ 76 ]
+  }, {
+    "phrase" : {
+      "text" : "the underlying principles of the cosmos",
+      "language" : "en"
+    },
+    "meaningId" : 3628774006074732883,
+    "authors" : [ 76 ]
+  }, {
+    "phrase" : {
+      "text" : "theory",
+      "language" : "en"
+    },
+    "meaningId" : 4245715972756651922,
+    "authors" : [ 76 ]
+  }, {
+    "phrase" : {
+      "text" : "trueness",
+      "language" : "en"
+    },
+    "meaningId" : -3744662677605975234,
+    "authors" : [ 6 ]
+  }, {
+    "phrase" : {
+      "text" : "truth or falsehood",
+      "language" : "en"
+    },
+    "meaningId" : 6344380990916286849,
+    "authors" : [ 76 ]
+  }, {
+    "phrase" : {
+      "text" : "verisimilitude",
+      "language" : "en"
+    },
+    "meaningId" : -2827712093726781713,
+    "authors" : [ 712 ]
+  }, {
+    "phrase" : {
+      "text" : "verity",
+      "language" : "en"
+    },
+    "meaningId" : -5779787050435032109,
+    "authors" : [ 6 ]
+  }, {
+    "phrase" : {
+      "text" : "way",
+      "language" : "en"
+    },
+    "meaningId" : 1414813221532045788,
+    "authors" : [ 76 ]
+  }, {
+    "meanings" : [ {
+      "language" : "en",
+      "text" : "truth"
+    } ],
+    "meaningId" : -17124331890845653,
+    "authors" : [ 1 ]
+  } ],
+  "phrase" : "Wahrheit",
+  "from" : "de",
+  "dest" : "en",
+  "authors" : {
+    "69425" : {
+      "U" : "",
+      "id" : 69425,
+      "N" : "plwiktionary.org",
+      "url" : "https://glosbe.com/source/69425"
+    },
+    "2736" : {
+      "U" : "http://www.csse.monash.edu.au/~jwb/j_jmdict.html",
+      "id" : 2736,
+      "N" : "JMdict-Japanese-Multilingual-Dictio...",
+      "url" : "https://glosbe.com/source/2736"
+    },
+    "1" : {
+      "U" : "http://en.wiktionary.org",
+      "id" : 1,
+      "N" : "en.wiktionary.org",
+      "url" : "https://glosbe.com/source/1"
+    },
+    "2692" : {
+      "U" : "http://dumps.wikimedia.org/iswiktionary/latest/iswiktionary-latest-pages-articles.xml.bz2",
+      "id" : 2692,
+      "N" : "Wikiordabok",
+      "url" : "https://glosbe.com/source/2692"
+    },
+    "6" : {
+      "U" : "http://de.wiktionary.org",
+      "id" : 6,
+      "N" : "de.wiktionary.org",
+      "url" : "https://glosbe.com/source/6"
+    },
+    "711" : {
+      "U" : "http://mrhoney.purespace.de/latest.htm",
+      "id" : 711,
+      "N" : "Winfried Honig",
+      "url" : "https://glosbe.com/source/711"
+    },
+    "712" : {
+      "U" : "http://dict.tu-chemnitz.de/",
+      "id" : 712,
+      "N" : "Frank Richter",
+      "url" : "https://glosbe.com/source/712"
+    },
+    "76" : {
+      "U" : "http://www.csse.monash.edu.au/~jwb/jmdict.html",
+      "id" : 76,
+      "N" : "JMdict",
+      "url" : "https://glosbe.com/source/76"
+    }
+  }
+}

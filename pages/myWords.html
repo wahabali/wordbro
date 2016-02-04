@@ -1,0 +1,58 @@
+<div>
+    <alert ng-repeat="alert in alerts" type="{{alert.type}}" close="closeAlert($index)">{{alert.msg}}</alert>
+</div>
+
+
+<h1>{{message}}</h1>
+
+<form novalidate>
+    <table class="table">
+        <tr>
+
+            <td>Word:</td>
+            <td>
+                <input type="text" class="form-control" ng-model="new.word">
+            </td>
+            <td>Meaning:</td>
+            <td width="40%">
+                <input type="text" class="form-control" ng-model="new.meaning">
+            </td>
+
+            <td>
+                <select class="form-control" ng-model="new.gender" ng-options="g for g in genders">
+                    <option value=""> - Gender -</option>
+                </select>
+            </td>
+            <td>
+                <select class="form-control" ng-model="new.partOfSpeech" ng-options="p for p in partOfSpeech">
+                    <option value=""> - Part of Speech -</option>
+                </select>
+            </td>
+            <td>
+                <button type="button" class="btn btn-success" ng-click="AddWord()">+</button>
+            </td>
+        </tr>
+    </table>
+
+
+
+</form>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>word</th>
+            <th>meaning</th>
+            <th>gender</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr ng-repeat="x in words">
+            <td>{{ x.word }}</td>
+            <td>{{ x.meaning }}</td>
+            <td>{{ x.gender }}</td>
+        </tr>
+    </tbody>
+
+</table>
